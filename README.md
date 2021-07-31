@@ -1,5 +1,5 @@
 # js-persian-woocommerce-irancities
-3d array of Iran state and cities for with Woocommerce compatible keys for Reactnative or any JavaScript project
+3d array of Iran state and cities with Woocommerce compatible keys for Reactnative or any JavaScript project
 iran state and cities array with woocommerce compatible keys for javascript projects
 
 ## Installation
