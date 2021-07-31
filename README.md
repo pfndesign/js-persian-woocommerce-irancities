@@ -7,7 +7,7 @@ iran state and cities array with woocommerce compatible keys for javascript proj
 import the file in your project
 
 ```javascript
-import { IranCities } from "../irancities/Irancities";
+import { IranCities } from "./Irancities";
 ```
 wolah 
 ## Template example
